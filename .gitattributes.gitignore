@@ -1,7 +1,0 @@
-Enforce LF for source code and configuration files
-
-*.java text eol=lf *.xml text eol=lf *.properties text eol=lf *.ts text eol=lf *.tsx text eol=lf *.js text eol=lf *.json text eol=lf *.md text eol=lf
-
-Handle binary files
-
-*.png binary *.jpg binary *.jpeg binary *.gif binary
